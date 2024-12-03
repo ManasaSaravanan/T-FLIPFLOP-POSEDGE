@@ -54,9 +54,11 @@ nand(qbar,q,w2);
 endmodule
 ``` 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![WhatsApp Image 2024-10-24 at 11 45 07_049fc595](https://github.com/user-attachments/assets/92f896c1-9ae8-4c2c-af5d-44081ca77bed)
 
 **TIMING DIAGRAMS FOR FLIP FLOPS**
+
 ![WhatsApp Image 2024-10-24 at 11 48 06_8b149d1e](https://github.com/user-attachments/assets/348317a9-9e51-46ab-b68d-2117a6041e22)
 
 **RESULTS**
